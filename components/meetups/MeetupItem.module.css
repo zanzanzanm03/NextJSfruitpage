@@ -6,12 +6,13 @@
 
 
 .image {
-  width: 65%;
+  width: 72%;
   height: 20rem;
   overflow: hidden;
   border-top-right-radius: 6px;
   border-top-left-radius: 6px;
   margin-left: 80px;
+  margin-top: 50px;
   
 }
 
@@ -24,6 +25,7 @@
 .content {
   text-align: center;
   padding: 1rem;
+  
   
 }
 
